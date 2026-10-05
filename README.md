@@ -201,7 +201,7 @@ Python · PyTorch · torchvision · scikit-learn · Matplotlib · Seaborn · Pil
 
 ##  License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This is an acadamic project 
 
 ##  Acknowledgements
 
@@ -210,4 +210,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-⭐ If you found this project useful, consider giving it a star!
