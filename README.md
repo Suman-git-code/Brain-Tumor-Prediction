@@ -94,8 +94,8 @@ brain-tumor-classification/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git https://github.com/Suman-git-code/Brain-Tumor-Prediction
+cd <Brain-Tumor-Prediction>
 
 # 2. (Optional) create a virtual environment
 python -m venv venv
